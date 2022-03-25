@@ -1,4 +1,4 @@
-Skill Bar
+Tool Tip
 Progress Bar 
 Nav bar
 Form control
